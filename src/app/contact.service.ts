@@ -8,7 +8,7 @@ import { Contact } from './contact';
 })
 export class ContactService {
 
-  private baseUrl="http://3.143.9.35:8080/"
+  private baseUrl="http://13.58.163.218:8080/"
 
   constructor(private httpClient:HttpClient) { }
 
